@@ -1,0 +1,6 @@
+function 
+ function 
+ |
+{Error: Function definitions are not permitted in this context.
+} 
+exit
